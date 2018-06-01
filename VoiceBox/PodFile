@@ -1,0 +1,6 @@
+use_frameworks!
+
+target “VoiceBox” do
+pod 'CircleMenu', '~> 3.0.6'
+pod 'fluid-slider', '~> 0.0.6'
+end
